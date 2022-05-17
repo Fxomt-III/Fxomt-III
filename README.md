@@ -1,5 +1,3 @@
-<h1><b>Python script kiddie</b></h1>
-
 [![Fxomts's github stats](https://github-readme-stats.vercel.app/api?username=Fxomt-III)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
@@ -27,5 +25,7 @@
 <br/>
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="50">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/ruby/ruby.png" height="50">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/haskell/haskell.png" height="50">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/kotlin/kotlin.png" height="50">
 <img src="https://nasm-tutorial.akash.website/img/nasm-logo.png" height="50">
 </div>
