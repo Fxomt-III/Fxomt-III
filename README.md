@@ -28,6 +28,7 @@
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/haskell/haskell.png" height="50">
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/bash.svg" height="50">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/rust.svg" height="50">
+<br/>
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/kotlin/kotlin.png" height="50">
 <img src="https://nasm-tutorial.akash.website/img/nasm-logo.png" height="50">
 </div>
